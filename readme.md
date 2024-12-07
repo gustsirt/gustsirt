@@ -16,11 +16,12 @@ I currently work as an administrative assistant and data analyst at [Newsport](h
 
 ### Skills
 
-- **Programming Languages:** JavaScript, Python
+- **Programming Languages:** JavaScript, Python, Go
 - **Data Analysis Tools:** Excel, Power BI, Tableau, MySQL
 - **Frameworks:** React, Node.js, FastAPI
-- **Libraries:** Tanstack, Tailwind CSS, Vite, SASS, Notion, MongoDB
-- **Tools:** GitHub, VS Code
+- **Libraries:** Tanstack (Route, Table, Form, Query), Tailwind CSS, Vite
+- **Databases:** MongoDB, SQL
+- **Tools:** Notion, GitHub, VS Code
 
 ---
 
