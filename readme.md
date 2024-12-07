@@ -17,7 +17,8 @@ I currently work as an administrative assistant and data analyst at [Newsport](h
 ### Skills
 
 - **Programming Languages:** JavaScript, Python, Go
-- **Data Analysis Tools:** Excel, Power BI, Tableau, MySQL
+- **Data Analysis Tools:** Google Sheets, Excel, Power BI, Tableau, MySQL
+- **Data Science Tools:** Project Jupyter, Python, Google Colab, Pandas, Nympy, Matplotlib, Seaborn 
 - **Frameworks:** React, Node.js, FastAPI
 - **Libraries:** Tanstack (Route, Table, Form, Query), Tailwind CSS, Vite
 - **Databases:** MongoDB, SQL
@@ -71,9 +72,18 @@ I currently work as an administrative assistant and data analyst at [Newsport](h
 
 ---
 
-<h3 align="left">Data Analytics Tools:</h3>
+<h3 align="left">Data Analytics / Science Tools:</h3>
 <p align="center">
+  <img src="https://img.icons8.com/?size=100&id=30461&format=png&color=000000" alt="Google Sheets" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Espacio horizontal -->
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Espacio horizontal -->
+  <img src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" alt="Numpy" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" alt="Pandas" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" alt="Project Jupyter" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" alt="Google Colab" width="40" height="40"/>
+  
 </p>
+
