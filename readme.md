@@ -40,10 +40,31 @@ I currently work as an administrative assistant and data analyst at [Newsport](h
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
+
 <p align="center">
+    <img src="https://skillicons.dev/icons?i=go" alt="Go programming language" />
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Espacio horizontal -->
+  <img src="https://skillicons.dev/icons?i=python,fastapi" alt="Python and FastAPI" />
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Espacio horizontal -->
+  <img src="https://skillicons.dev/icons?i=js,react,vite,nodejs,express" alt="JavaScript, React, Vite, Node.js, and Express" />
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Espacio horizontal -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,js,react,vite,nodejs,sass,tailwind,notion,github,vscode,mysql,mongodb" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=sass,tailwind,bootstrap" alt="Sass, Tailwind, and Bootstrap for styling" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css" alt="HTML and CSS" />
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Espacio horizontal -->
+  <img src="https://skillicons.dev/icons?i=md" alt="Markdown for documentation" />
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Espacio horizontal -->
+  <img src="https://skillicons.dev/icons?i=linkedin,notion" alt="LinkedIn and Notion for networking and productivity" />
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Espacio horizontal -->
+  <img src="https://skillicons.dev/icons?i=postman,github,vscode" alt="Postman, GitHub, and VSCode for development tools" />
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Espacio horizontal -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="MySQL, PostgreSQL, and MongoDB for databases" />
   </a>
 </p>
 
