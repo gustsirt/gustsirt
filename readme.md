@@ -4,11 +4,14 @@
 
 I currently work as an administrative assistant and data analyst at [Newsport](https://www.newsport.com.ar). With extensive experience in developing applications and analyzing data, I specialize in using Excel for process optimization and automation. My goal is to leverage technology to create efficient solutions and derive actionable insights from data.
 
+I am also developing [Insight Devs](https://www.insightdevs.com.ar/), a brand focused on technology solutions, data analysis, and software development.
+
 ---
 
 ### What am I up to now?
 
 - 📊 **Working at Newsport:** Analyzing data to improve decision-making processes and optimize operational workflows.
+- 🚀 **Building Insight Devs:** Developing a brand dedicated to creating innovative software solutions and data-driven insights.
 - 📚 **Learning Tanstack Libraries:** Exploring the [Tanstack](https://tanstack.com/) suite to enhance user experiences in web applications.
 - 🐍 **Focusing on Python:** Expanding my Python skills, particularly in data analysis and software development, to deepen my expertise in these areas.
 
@@ -18,7 +21,7 @@ I currently work as an administrative assistant and data analyst at [Newsport](h
 
 - **Programming Languages:** JavaScript, Python, Go
 - **Data Analysis Tools:** Google Sheets, Excel, Power BI, Tableau, MySQL
-- **Data Science Tools:** Project Jupyter, Python, Google Colab, Pandas, Nympy, Matplotlib, Seaborn 
+- **Data Science Tools:** Project Jupyter, Python, Google Colab, Pandas, Numpy, Matplotlib, Seaborn 
 - **Frameworks:** React, Node.js, FastAPI
 - **Libraries:** Tanstack (Route, Table, Form, Query), Tailwind CSS, Vite
 - **Databases:** MongoDB, SQL
@@ -84,6 +87,4 @@ I currently work as an administrative assistant and data analyst at [Newsport](h
   <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" alt="Pandas" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" alt="Project Jupyter" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" alt="Google Colab" width="40" height="40"/>
-  
 </p>
-
