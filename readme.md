@@ -20,11 +20,11 @@ I am also developing [Insight Devs](https://www.insightdevs.com.ar/), a brand fo
 ### Skills
 
 - **Programming Languages:** JavaScript, Python, Go  
-- **Data Analysis Tools:** Google Sheets, Excel, Power BI, Tableau, MySQL  
+- **Data Analysis Tools:** Google Sheets, Excel, Power BI, Tableau, Looker Studio  
 - **Data Science Tools:** Project Jupyter, Python, Google Colab, Pandas, Numpy, Matplotlib, Seaborn  
 - **Frameworks:** React, Node.js, FastAPI  
 - **Libraries:** Tanstack (Route, Table, Form, Query), Tailwind CSS, Vite  
-- **Databases:** MongoDB, SQL  
+- **Databases:** MongoDB, SQL, MySQL
 - **Tools:** Notion, GitHub, VS Code  
 
 ---
